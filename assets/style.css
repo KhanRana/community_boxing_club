@@ -1,15 +1,21 @@
+/* Google fonts imported */
 @import url("https://fonts.googleapis.com/css?family=Cardo:400,700|Oswald");
 
+/* set default values */
 * {
     margin: 0;
     border: none;
     padding: 0;
+    background-color: #484d5c;
 }
 
+/* applying font styles to the body */
 body {
     font-family: 'Cardo', serif;
+    color: #c0ccd4;
    }
-   h1, h2, h3, h4, h5, h6 {
+   h1, h2, h3 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
+    color: #ffce00;
    }
