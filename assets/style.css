@@ -6,7 +6,8 @@
     margin: 0;
     border: none;
     padding: 0;
-    background-color: #484d5c;
+    /* background-color: #484d5c; */
+    background-color:#696969;
 }
 
 /* applying font styles to the body */
@@ -49,4 +50,37 @@ body {
 
 .active {
     border-bottom: 1.2px solid #c0ccd4 ;
+}
+
+/* banner and motivation video*/
+
+#banner {
+    width: 100%;
+    height: 500px;
+    clear: both;
+    position: relative;
+}
+#banner-image {
+    width: 100%;
+    height: 500px;
+    background-image: url(gallery/images/banner1.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+/* motivation quotation on the banner*/
+#motivation-quote{
+    text-transform: uppercase;
+    font-size: 110%;
+    color: #696969;
+
+    width: 200px;
+    height: 150px;
+
+    position: absolute;
+    bottom: 30px;
+    right: 100px;
+
+    background-color: rgba(236, 236, 236, 0.7);
+
 }
