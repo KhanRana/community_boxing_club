@@ -177,3 +177,41 @@ footer{
     padding: 1%;
     color:#ffce00;
 }
+
+/* gallery */
+#photos {
+    clear: both;
+    column-count: 4;
+    line-height: 0;
+    column-gap: 0;
+}
+#photos h2{
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+}
+
+#photos > img {
+    width: 100%;
+}
+
+video {
+    width: 100%;
+    height: auto;
+    padding-left: 15px;
+}
+
+#videos{
+    margin-top: 30px;
+    column-count: 2;
+    line-height: 0;
+    column-gap: 0;
+}
+
+#videos > h2 {
+    text-align: left;
+    padding-left: 20px;
+    margin-top: 15px;
+}
+
+
