@@ -37,6 +37,52 @@
             </ul>
         </nav>
     </header>
+    <div id="application">
+        <form method="post" action="https://formdump.codeinstitute.net">
+            <fieldset>
+                <legend>Your Details</legend>
+                <div class="form-pad">
+                <label for="first-name" class="bold-label">First Name:</label>
+                <input id="first-name" type="text" required>
+                </div>
+                 
+                <div class="form-pad">
+                <label for="last-name" class="bold-label">Last Name:</label>
+                <input id="last-name" type="text" required>
+                </div>
+
+                <div class="form-pad">
+                <label for="age" class="bold-label">Age:</label>
+                <select id="age" name="age" required>
+                    <option value="Under 20">10-20</option>
+                    <option value="20s">20-30</option>
+                    <option value="30s">30-39</option>
+                    <option value="40s">40-49</option>
+                    <option value="50s">50+</option>
+                </select>
+                </div>
+
+                <div class="form-pad">
+                <label for="email" class="bold-label">Email:</label>
+                <input id="email" type="email" required>
+                </div>
+            </fieldset>
+
+
+            <legend>Reasons to Start Boxing</legend>
+            <fieldset>
+                <label for="reasons">Why would you like to start boxing?</label>
+                <br>
+                <textarea name="reasons" id="reasons" cols="40" rows="12"
+                    placeholder="I would like to take self defence classes!!"></textarea>
+            </fieldset>
+
+            <input type="submit" value="Submit">
+
+            <input type="reset" value="Clear Form">
+
+        </form>
+    </div>
 
 
 

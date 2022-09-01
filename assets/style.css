@@ -72,6 +72,7 @@ h3 {
     background-position: center center;
 }
 
+
 /* motivation quotation on the banner*/
 #motivation-quote {
     text-transform: uppercase;
@@ -213,4 +214,72 @@ video {
     margin-top: 15px;
 }
 
+/* membership form */
+#application {
+    font-family: 'Oswald', 'Cardo', sans-serif;
+    width: 400px;
+    height: 600px;
+    padding-left: 40%;
+    padding-top: 10%;
+}
 
+#application label, legend{
+    color: #ffce00;
+}
+
+legend {
+	font-size: x-large;
+	font-weight: 600;
+	text-transform: uppercase;
+	margin: 15px 0 10px 0;
+}
+
+fieldset {
+	border: none;
+	margin-top: 20px;
+}
+
+input[type=submit] {
+	margin-top: 15px;
+	margin-left: 0.75rem;
+	padding: 0.75rem;
+	background-color:#000000;
+	color: #ffffff;
+	border: none;
+	border-radius: 5px;
+}
+
+input[type=reset] {
+
+	margin-top: 15px;
+    margin-left: 0.75rem;
+    padding: 0.75rem;
+    background-color:#000000;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+}
+
+input[type=submit]:hover, input[type=reset]:hover {
+    color: #ffce00;
+}
+
+input[type=text],
+input[type=email] {
+    height: 30px;
+    width: 90%;
+    padding-left: 10px;
+	margin: 0 auto;
+    background-color: rgba(236, 236, 236, 0.7);
+}
+
+textarea {
+    background-color: rgba(236, 236, 236, 0.7);
+}
+
+select {
+    height: 20px;
+    width: 100px;
+    padding-left: 10px;
+    background-color: rgba(236, 236, 236, 0.7);
+}
