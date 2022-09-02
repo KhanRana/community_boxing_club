@@ -78,8 +78,7 @@ From the build and deploymet > from a source > deployment from a branch, main , 
 Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 The live link can be found here - ![](https://khanrana.github.io/community_boxing_club/)
 
-##Credits
-
+## Credits
 - Content
 The text for the Home page was taken from healthline.come
 Instructions on how to implement form validation on the Membership Form was taught in the program
