@@ -80,12 +80,12 @@ The live link can be found here - ![](https://khanrana.github.io/community_boxin
 
 ##Credits
 
-. Content
+- Content
 The text for the Home page was taken from healthline.come
 Instructions on how to implement form validation on the Membership Form was taught in the program
 The icons in the footer were taken from Font Awesome
 The website is inpired by various tutorials and websites, including but not limited to the code institute.
 
-. Media
+- Media
 All photos are taken from open source website [UpSplash](https://unsplash.com/images).
 All videos are taken from open source website [Pexels](https://www.pexels.com/videos/)
