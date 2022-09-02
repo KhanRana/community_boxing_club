@@ -67,6 +67,9 @@ No errors were found when passing through the official (Jigsaw) validator
 The website membership form is also validated for type.
 [type_valid](https://github.com/KhanRana/community_boxing_club/blob/main/assets/media/type_check.png)
 
+Finally, the website is also tested by the light house and returned oustanding results.
+![light_house_report](https://github.com/KhanRana/community_boxing_club/blob/main/assets/media/lighthouse_report.png)
+
 - Fixed Bugs
 There was an error when submitting the membership.html. It turns out we cannot 'required' to a drop down select. 
 When the 'required' was removed from the select, html returned no errors.
