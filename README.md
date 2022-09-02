@@ -5,7 +5,7 @@ Manchester Boxing is a websiter developed for an imaginary community boxing club
 
 The club is seeing an increased demand and therefore created a website so anyone interested can join and attend the group classes. It is a fun way to get healthy. 
 
-![image]/workspace/community-boxing-club/assets/media/responsive.png)
+![]/workspace/community-boxing-club/assets/media/responsive.png)
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 

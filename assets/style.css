@@ -12,7 +12,8 @@
 /* applying font styles to the body */
 body {
     font-family: 'Cardo', serif;
-    color: #c0ccd4;
+    /* color: #c0ccd4; */
+    color: rgb(255, 250, 250);
     background-color: #696969;
 }
 
