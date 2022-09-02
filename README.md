@@ -71,6 +71,7 @@ The website membership form is also validated for type.
 There was an error when submitting the membership.html. It turns out we cannot 'required' to a drop down select. 
 When the 'required' was removed from the select, html returned no errors.
 Footer was moving up the screen on about.html in mobile and tablet view. I have fixed is by sticking it and moving it to the bottom using '100vh'.
+Previous small screen bug fix created issue for larger screen use, which now has been fixed by using body 100vh and positioning footer relatively.
 
 ## Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows:
