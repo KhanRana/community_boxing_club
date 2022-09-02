@@ -1,12 +1,11 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome KhanRana,
+# Machester Boxing
+Manchester Boxing is a websiter developed for an imaginary community boxing club whose mission is to promote health and fitness by providing boxing training.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+The club is seeing an increased demand and therefore created a website so anyone interested can join and attend the group classes. It is a fun way to get healthy. 
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
-
-## Gitpod Reminders
+![image]/workspace/community-boxing-club/assets/media/responsive.png)
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
